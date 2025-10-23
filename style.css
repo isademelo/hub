@@ -27,7 +27,7 @@ body {
   backdrop-filter: blur(10px);
 }
 
-.profile-img {
+.logo-img {
   width: 110px;
   height: 110px;
   border-radius: 50%;
@@ -77,4 +77,5 @@ footer {
   margin-top: 20px;
   font-size: 0.8rem;
   color: #8892b0;
+
 }
