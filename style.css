@@ -34,6 +34,9 @@ body {
   object-fit: contain;
   margin-bottom: 15px;
   padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
@@ -79,3 +82,4 @@ footer {
   color: #8892b0;
 
 }
+
